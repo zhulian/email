@@ -8,7 +8,7 @@
     "express": "^4.13.4"
   },
   "scripts": {
-    "start": "node helloworld.js" 3
+    "start": "node helloworld.js", 3
   },
   "repository": {
     "type": "git",
